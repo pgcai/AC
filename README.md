@@ -7,6 +7,27 @@ Abstract:
 
 ### Keywords-EEG, emotion recognition, deep learning, CNN, LSTM, Attention
 
+##INTRODUCTION
+>To be filled
 
+##METHODS
+###Pre-processing
+>To be filled
+###etc.
+>To be filled
 
-![pic01](https://images.cnblogs.com/cnblogs_com/cpg123/1609385/o_191209005159paper_pic01.jpg)
+##EXPERIMENTS
+###The Datasets
+>To be filled
+###Model Implemention
+>To be filled
+###Results
+>To be filled
+
+##CONCLUSION
+>To be filled
+
+##REFERENCES
+>To be filled
+
+![Fig.1](https://images.cnblogs.com/cnblogs_com/cpg123/1609385/o_191209005159paper_pic01.jpg)
