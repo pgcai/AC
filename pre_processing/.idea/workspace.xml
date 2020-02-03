@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11f6b16b-acac-458e-a94b-726b6e1d8823" name="Default Changelist" comment="上传代码：带通滤波" />
+    <list default="true" id="11f6b16b-acac-458e-a94b-726b6e1d8823" name="Default Changelist" comment="上传代码：带通滤波">
+      <change beforePath="$PROJECT_DIR$/../DEAP_pre/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DEAP_pre/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +55,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1937" />
+    <option name="x" value="736" />
+    <option name="y" value="-20" />
+    <option name="width" value="975" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -79,6 +81,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../情感计算&amp;机器学习入门材料/王佳男，毕业项目/项目源码" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -144,7 +147,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1563" height="855" extended-state="6" />
+    <frame x="-7" y="-7" width="1563" height="855" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
